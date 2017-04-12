@@ -14,3 +14,5 @@ I lied, you can see them.
 
 Oh yeah, this is a nice reference for the language we are using to write this. It's called Markdown.
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Here's another one: https://guides.github.com/features/mastering-markdown/
