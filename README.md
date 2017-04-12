@@ -9,4 +9,8 @@ More content.
 
 ### La Di Da Da
 `comment`
-Enclose comments with \` to make a comment not visible on the webpage. 
+Enclose comments with \` to make a comment ~~not visible on the webpage. ~~
+I lied, you can see them.
+
+Oh yeah, this is a nice reference for the language we are using to write this. It's called Markdown.
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
