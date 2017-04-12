@@ -11,7 +11,7 @@ More content.
 Enclose comments with \` to make a comment ~~not visible on the webpage. ~~
 I lied, you can see them. (Oh I guess that strikethrough didn't work.)
 
-Oh yeah, [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice reference for the language we are using to write this. It's called Markdown.
+Oh yeah, [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice reference for the language we are using to write this. This language is Markdown.
 
 Here's another [one!](https://guides.github.com/features/mastering-markdown/)
 
